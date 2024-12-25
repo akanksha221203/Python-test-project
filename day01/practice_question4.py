@@ -1,3 +1,3 @@
-a = int(input("enter a "))
-b = int(input("enter b "))
-print (a>=b)
+c = int(input("enter c "))
+d = int(input("enter d "))
+print (c>=d)  
